@@ -173,12 +173,13 @@ p {
 /* css for Card product on Our Collections section */
 
 .card-body .btn {
-  margin-left:85px;
+  margin:10px;
   text-align: center;
   border: 2x solid var(--pink);
 }
 .card-body .card-title-price {
   color:var(--pink);
+  margin-left: 70px;;
 }
 .fas {
   color:var(--pink);
