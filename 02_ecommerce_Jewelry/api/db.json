@@ -1,0 +1,528 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Twist Wrap Ring, White, Rhodium ",
+      "price": " $ 899 ",
+      "description": "Intricate and opulent, this marvelous Swarovski ring reinterprets the spiral trend magnificently. Gently curving lines of white stones of various sizes in round, square, and tapered baguette-shapes sparkle brilliantly in many facets. Complemented by a shimmering finish, the elegant design makes it perfect for dressing up your style, adding a radiant touch of glamor to your look.",
+      "quantity": 20,
+      "category": "Twist",
+      "image": "../images/img1.webp"
+    },
+    {
+      "id": 2,
+      "title": "Sparkling Dance Bangle, Rhodium ",
+      "price": " $ 799 ",
+      "description": "Joining our popular Sparkling Dance collection, this exquisite rhodium plated bangle lifts any look with its timeless sparkle and fresh touch of color. The design elegantly combines a frosty mint-colored stone and clear crystal pavé. A perfect gift for anyone who appreciates classic elegance with a twist.",
+      "quantity": 30,
+      "category": "Twist",
+      "image": "../images/img2.webp"
+    },
+    {
+      "id": 3,
+      "title": "Twist Infinity Cuff, White ",
+      "price": " $ 499 ",
+      "description": "This exquisite Swarovski cuff features two infinity symbols: one is rose-gold tone plated, and the other is decked out in sparkling white crystals. Entwined together, they form a larger infinity symbol. The warm and cool tones of the mixed metal finish create a perfect balance to complete this truly elegant design. Ideal for any outfit for special occasions.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img24.webp"
+    },
+    {
+      "id": 4,
+      "title": "Twist Wrap Ring, Purple, Rose-gold",
+      "price": " $ 699 ",
+      "description": "Intricate and opulent, this marvelous Swarovski ring reinterprets the spiral trend magnificently. Gently curving lines of white stones of various sizes in round, square, and tapered baguette-shapes sparkle brilliantly in many facets. Complemented by a shimmering finish, the elegant design makes it perfect for dressing up your style, adding a radiant touch of glamor to your look.",
+      "quantity": 20,
+      "category": "Twist",
+      "image": "../images/img4.webp"
+    },
+    {
+      "id": 5,
+      "title": "Naga Gold Dragon Station Bracelet",
+      "price": " $ 599 ",
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img5.webp"
+    },
+    {
+      "id": 6,
+      "title": "Solid Gold Petite Micropave ",
+      "price": " $ 699 ",
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img6.webp"
+    },
+    {
+      "id": 7,
+      "title": "White Gold Plated Princess",
+      "price": " $ 799 ",
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "quantity": 20,
+      "category": "jewelery",
+      "image": "../images/img7.webp"
+    },
+    {
+      "id": 8,
+      "title": "Pierced Rose Gold Plated Stainless",
+      "price": " $ 899 ",
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img8.webp"
+    },
+    {
+      "id": 9,
+      "title": "Luckily Evil Eye Pierced Earrings ",
+      "price": " $ 869 ",
+      "description": "Keep good luck on your side with this simple yet very elegant pair of pierced earrings in rose gold plating with colored pavé. They are inspired by the evil eye amulet symbol, which is believed to bring good luck and protect the wearer – making this an ideal gift for a friend or loved one. Mix and match with other Crystal Wishes pieces to complete your look.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img9.webp"
+    },
+    {
+      "id": 10,
+      "title": "Swarovski Infinity Bangle, Rhodium",
+      "price": " $ 899 ",
+      "description": "Rhodium plating and white crystals perfectly complement each other in this elegant Swarovski bangle. Featuring an infinity symbol, it sparkles like the first stars in the sky at dusk. The rhodium-plated chain and an elegant single crystal complete the design. An ideal gift for a special occasion – for a loved one or yourself!",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img10.webp"
+    },
+    {
+      "id": 11,
+      "title": "Birthstone Pendant, October, Rhodium ",
+      "price": " $ 899 ",
+      "description": "This Swarovski pendant is inspired by the concept of birthstones, precious stones that correspond to different birth months. Its design features a single large, brilliantly cut crystal in a pink hue. A matching chain complements this beautiful pendant. A thoughtful gift idea for anyone born in October and a charming piece of jewelry for everyday wear.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img11.webp"
+    },
+    {
+      "id": 13,
+      "title": "Iconic Swan Pierced Earring  ",
+      "price": " $ 899 ",
+      "description": "Feminine and sophisticated, this versatile pair of rose gold-plated pierced earring jackets features the iconic symbol of Swarovski: the swan. Delicately embellished with dramatic black crystals set in pavé, they sparkle beautifully. Wear alone for timeless refinement or add the Crystal Pearl jackets for a more edgy look. The earrings measure 2.5 cm.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img35.webp"
+    },
+    {
+      "id": 14,
+      "title": "Remix Collection Carrier, White, Rhodium  ",
+      "price": " $ 699 ",
+      "description": "The award-winning Swarovski Remix Collection enters a new era of customization with this sleek crystal-embellished carrier bracelet. Intended to form the foundation of a charm collection, the simple silhouette features dedicated positions, which can be personalized with whatever adornments you desire. This rose gold-plated strand can then be connected with others from the Remix Collection, using the innovative magnetic closure, to create millions of combinations. Whether it’s a necklace, a choker, or a single or multi-wrap bracelet, you can update your look again and again. A perfect gift for a loved one.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img14.webp"
+    },
+    {
+      "id": 15,
+      "title": "Attract Circle Stud Pierced Earrings ",
+      "price": " $ 899 ",
+      "description": "Delicately cut stones and a beautiful color scheme distinguish this pair of pierced Swarovski earrings. Each earring is highlighted by several stones in square, round, and oval shapes, while white, gray, and light blue hues create a lustrous array of sparkles. A great way to enhance your everyday looks.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img15.webp"
+    },
+    {
+      "id": 16,
+      "title": "Swarovski Infinity Heart Necklace,White",
+      "price": " $ 899 ",
+      "description": "Eternal romance: The symbols of love and infinity are bound together in this elegant Swarovski necklace. A white crystal heart is intertwined with a rose-gold tone plated infinity symbol in this lovely piece, which is a visible representation of the promise of everlasting love. A perfect gift for your significant other.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img16.webp"
+    },
+    {
+      "id": 17,
+      "title": "Emily Gradient Bracelet, Blue ",
+      "price": " $ 899 ",
+      "description": "This bracelet by Swarovski creates a modern, attractive look through a beautiful color scheme. Numerous sparkling crystals shimmer in blue and green hues, skillfully complemented by clear crystals. The size of the crystals increases towards the center of the bracelet to great visual effect. A perfect fit for casual everyday outfits, either by itself or combined with additional bracelets for a trendy stacking look",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img17.webp"
+    },
+    {
+      "id": 18,
+      "title": "Deluxe Bracelet, White, Rose-gold tone",
+      "price": " $ 899 ",
+      "description": "Elegant, refined, and incredibly easy to wear, this rose gold-plated edition of our bestselling Tennis Bracelet is a piece you can count on to lift any outfit, no matter what the occasion. Perfect for Mother's Day gifting, its soft sparkle blends in easily with other Swarovski designs. Try pairing it with pieces from the Sunshine jewelry family to create a radiant and timeless ensemble.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img18.webp"
+    },
+    {
+      "id": 19,
+      "title": "Ginger Pendant, White, Rose-gold",
+      "price": " $ 899 ",
+      "description": "Elegant and easy-to-wear, this circle pendant is perfect for mixing and matching with other styles of different lengths for an on-trend multi-layered look. It features a disc embellished with sparkling crystal pavé, which dangles from a delicate rose gold-plated chain.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img19.webp"
+    },
+    {
+      "id": 20,
+      "title": "Twist Rows Pendant,Rose-gold ",
+      "price": " $ 899 ",
+      "description": "Elegance and gently curving shapes distinguish this Swarovski pendant, adding a novel twist to the spiral trend. Shimmering lines intertwine beautifully, embellished by rows of purple stones that glitter brilliantly whenever they reflect incoming light. A matching chain closing with a lobster clasp complements the pendant. Pure and radiant, it is a great addition to your everyday styles.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img20.webp"
+    },
+    {
+      "id": 21,
+      "title": "Swarovski Infinity Heart Bangle ",
+      "price": " $ 599 ",
+      "description": "A symbol of infinite love: This elegant Swarovski bangle showcases the symbols of love and eternity entwined with each other. Embellished with white Swarovski crystals, the heart motif perfectly complements the infinity symbol for a truly romantic look. A mixed metal finish balances warm and cold tones perfectly to complete the design. It is a wonderful gift – and a promise – for a special person.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img21.webp"
+    },
+    {
+      "id": 22,
+      "title": " Swan Pierced Earrings, Multi-colored ",
+      "price": " $ 799 ",
+      "description": "Our Iconic Swan motif, the symbol of Swarovski, takes center stage in this stunning pair of pierced earrings. Beautifully embellished with a gradation of blue crystals set in our exclusive crystal Pointiage® technique, they will add color and sparkle to any day or evening look. Combine with matching rhodium plated pieces for extra impact.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img34.webp"
+    },
+    {
+      "id": 23,
+      "title": "Twist Infinity Cuff, White ",
+      "price": " $ 499 ",
+      "description": "This exquisite Swarovski cuff features two infinity symbols: one is rose-gold tone plated, and the other is decked out in sparkling white crystals. Entwined together, they form a larger infinity symbol. The warm and cool tones of the mixed metal finish create a perfect balance to complete this truly elegant design. Ideal for any outfit for special occasions.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img24.webp"
+    },
+    {
+      "id": 24,
+      "title": "Twist Infinity Cuff, White ",
+      "price": " $ 589 ",
+      "description": "This exquisite Swarovski cuff features two infinity symbols: one is rose-gold tone plated, and the other is decked out in sparkling white crystals. Entwined together, they form a larger infinity symbol. The warm and cool tones of the mixed metal finish create a perfect balance to complete this truly elegant design. Ideal for any outfit for special occasions.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img1.webp"
+    },
+    {
+      "id": 25,
+      "title": "Collection Delicate Pearl Strand ",
+      "price": " $ 769 ",
+      "description": "This pair of pierced earrings by Swarovski combines versatility with attractive design. Several irregularly set white stones adorn the chains with their alternating shapes, while the chain itself leads to a beautiful, dangling element. This allows it to swing freely, which reflects and refracts the light in constantly changing patterns. Remove the dangling chains to create a different look for this appealing addition to everyday outfits.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img25.webp"
+    },
+    {
+      "id": 26,
+      "title": "Twist Rows Pendant, Purple, Rose-gold ",
+      "price": " $ 499 ",
+      "description": "Elegance and gently curving shapes distinguish this Swarovski pendant, adding a novel twist to the spiral trend. Shimmering lines intertwine beautifully, embellished by rows of purple stones that glitter brilliantly whenever they reflect incoming light. A matching chain closing with a lobster clasp complements the pendant. Pure and radiant, it is a great addition to your everyday styles.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img26.webp"
+    },
+    {
+      "id": 27,
+      "title": "Attract Pierced Earrings Rose-gold ",
+      "price": " $ 869 ",
+      "description": "This pair of pierced earrings by Swarovski combines versatility with attractive design. Several irregularly set white stones adorn the chains with their alternating shapes, while the chain itself leads to a beautiful, dangling element. This allows it to swing freely, which reflects and refracts the light in constantly changing patterns. Remove the dangling chains to create a different look for this appealing addition to everyday outfits.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img27.webp"
+    },
+    {
+      "id": 28,
+      "title": "Twist Rows Pendant, Purple, Rose-gold ",
+      "price": " $ 869 ",
+      "description": "Elegance and gently curving shapes distinguish this Swarovski pendant, adding a novel twist to the spiral trend. Shimmering lines intertwine beautifully, embellished by rows of purple stones that glitter brilliantly whenever they reflect incoming light. A matching chain closing with a lobster clasp complements the pendant. Pure and radiant, it is a great addition to your everyday styles.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img28.webp"
+    },
+    {
+      "id": 29,
+      "title": "Remix Collection Strand, Multi-colored",
+      "price": " $ 599 ",
+      "description": "Elegance and gently curving shapes distinguish this Swarovski pendant, adding a novel twist to the spiral trend. Shimmering lines intertwine beautifully, embellished by rows of purple stones that glitter brilliantly whenever they reflect incoming light. A matching chain closing with a lobster clasp complements the pendant. Pure and radiant, it is a great addition to your everyday styles.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img29.webp"
+    },
+    {
+      "id": 30,
+      "title": "Symbolic Necklace, Multi-colored ",
+      "price": " $ 499 ",
+      "description": "Elegance and gently curving shapes distinguish this Swarovski pendant, adding a novel twist to the spiral trend. Shimmering lines intertwine beautifully, embellished by rows of purple stones that glitter brilliantly whenever they reflect incoming light. A matching chain closing with a lobster clasp complements the pendant. Pure and radiant, it is a great addition to your everyday styles.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img30.webp"
+    },
+    {
+      "id": 31,
+      "title": "Symbolic Pierced Earrings, Multi-colored ",
+      "price": " $ 699 ",
+      "description": "Take style inspiration from the mystical night sky this season with this statement-making pair of pierced earrings. Featuring moon and star motifs, which symbolize hopes and dreams, the design combines Swarovski Crystal Pearls and a delicate gradation of crystals set in pavé. Ideal for everyday wear, or an original gift idea.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img1.webp"
+    },
+    {
+      "id": 32,
+      "title": "Sparkling Dance Bangle, Blue ",
+      "price": " $ 799 ",
+      "description": "Joining our popular Sparkling Dance collection, this exquisite rhodium plated bangle lifts any look with its timeless sparkle and fresh touch of color. The design elegantly combines a frosty mint-colored stone and clear crystal pavé. A perfect gift for anyone who appreciates classic elegance with a twist.",
+      "quantity": 20,
+      "category": "Twist",
+      "image": "../images/img2.webp"
+    },
+    {
+      "id": 33,
+      "title": "Creativity Circle Pierced Earrings ",
+      "price": " $ 879 ",
+      "description": "Delicate circle silhouettes inject timeless elegance into any look, and this refined design adds a beautiful sparkle too. The metal is rhodium-plated, so will not tarnish. Easy to combine with other Swarovski jewelry, the earrings come as a pair and measure 1 cm.",
+      "quantity": 20,
+      "category": "Twist",
+      "image": "../images/img3.webp"
+    },
+    {
+      "id": 34,
+      "title": "Twist Wrap Ring, Purple, Rose-gold",
+      "price": " $ 699 ",
+      "description": "Intricate and opulent, this marvelous Swarovski ring reinterprets the spiral trend magnificently. Gently curving lines of white stones of various sizes in round, square, and tapered baguette-shapes sparkle brilliantly in many facets. Complemented by a shimmering finish, the elegant design makes it perfect for dressing up your style, adding a radiant touch of glamor to your look.",
+      "quantity": 20,
+      "category": "Twist",
+      "image": "../images/img4.webp"
+    },
+    {
+      "id": 35,
+      "title": "Naga Gold Dragon Station Chain Bracelet",
+      "price": " $ 599 ",
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img20.webp"
+    },
+    {
+      "id": 36,
+      "title": "Solid Gold Petite Micropave ",
+      "price": " $ 699 ",
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img15.webp"
+    },
+    {
+      "id": 37,
+      "title": "White Gold Plated Princess",
+      "price": " $ 799 ",
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "quantity": 20,
+      "category": "jewelery",
+      "image": "../images/img25.webp"
+    },
+    {
+      "id": 38,
+      "title": "Pierced Owl Rose Gold Plated Stainless ",
+      "price": " $ 899 ",
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img8.webp"
+    },
+    {
+      "id": 39,
+      "title": "Luckily Evil Eye Pierced Earrings ",
+      "price": " $ 869 ",
+      "description": "Keep good luck on your side with this simple yet very elegant pair of pierced earrings in rose gold plating with colored pavé. They are inspired by the evil eye amulet symbol, which is believed to bring good luck and protect the wearer – making this an ideal gift for a friend or loved one. Mix and match with other Crystal Wishes pieces to complete your look.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img9.webp"
+    },
+    {
+      "id": 40,
+      "title": " Infinity Bangle, White, Rhodium plated",
+      "price": " $ 899 ",
+      "description": "Rhodium plating and white crystals perfectly complement each other in this elegant Swarovski bangle. Featuring an infinity symbol, it sparkles like the first stars in the sky at dusk. The rhodium-plated chain and an elegant single crystal complete the design. An ideal gift for a special occasion – for a loved one or yourself!",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img10.webp"
+    },
+    {
+      "id": 41,
+      "title": "Birthstone Pendant, October, Pink, ",
+      "price": " $ 899 ",
+      "description": "This Swarovski pendant is inspired by the concept of birthstones, precious stones that correspond to different birth months. Its design features a single large, brilliantly cut crystal in a pink hue. A matching chain complements this beautiful pendant. A thoughtful gift idea for anyone born in October and a charming piece of jewelry for everyday wear.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img11.webp"
+    },
+    {
+      "id": 42,
+      "title": "Swan Pierced Earring Jackets, Black ",
+      "price": " $ 899 ",
+      "description": "Feminine and sophisticated, this versatile pair of rose gold-plated pierced earring jackets features the iconic symbol of Swarovski: the swan. Delicately embellished with dramatic black crystals set in pavé, they sparkle beautifully. Wear alone for timeless refinement or add the Crystal Pearl jackets for a more edgy look. The earrings measure 2.5 cm.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img5.webp"
+    },
+    {
+      "id": 43,
+      "title": "Remix Collection Carrier, White  ",
+      "price": " $ 899 ",
+      "description": "The award-winning Swarovski Remix Collection enters a new era of customization with this sleek crystal-embellished carrier bracelet. Intended to form the foundation of a charm collection, the simple silhouette features dedicated positions, which can be personalized with whatever adornments you desire. This rose gold-plated strand can then be connected with others from the Remix Collection, using the innovative magnetic closure, to create millions of combinations. Whether it’s a necklace, a choker, or a single or multi-wrap bracelet, you can update your look again and again. A perfect gift for a loved one.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img14.webp"
+    },
+    {
+      "id": 44,
+      "title": "Attract Circle Pierced Earrings, Multicolored",
+      "price": " $ 899 ",
+      "description": "Delicately cut stones and a beautiful color scheme distinguish this pair of pierced Swarovski earrings. Each earring is highlighted by several stones in square, round, and oval shapes, while white, gray, and light blue hues create a lustrous array of sparkles. A great way to enhance your everyday looks.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img15.webp"
+    },
+    {
+      "id": 45,
+      "title": "Infinity Heart Necklace, White metal finish",
+      "price": " $ 899 ",
+      "description": "Eternal romance: The symbols of love and infinity are bound together in this elegant Swarovski necklace. A white crystal heart is intertwined with a rose-gold tone plated infinity symbol in this lovely piece, which is a visible representation of the promise of everlasting love. A perfect gift for your significant other.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img16.webp"
+    },
+    {
+      "id": 46,
+      "title": "Emily Gradient Bracelet, Blue",
+      "price": " $ 899 ",
+      "description": "This bracelet by Swarovski creates a modern, attractive look through a beautiful color scheme. Numerous sparkling crystals shimmer in blue and green hues, skillfully complemented by clear crystals. The size of the crystals increases towards the center of the bracelet to great visual effect. A perfect fit for casual everyday outfits, either by itself or combined with additional bracelets for a trendy stacking look",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img17.webp"
+    },
+    {
+      "id": 47,
+      "title": "Deluxe Bracelet, White, Rose-gold tone ",
+      "price": " $ 899 ",
+      "description": "Elegant, refined, and incredibly easy to wear, this rose gold-plated edition of our bestselling Tennis Bracelet is a piece you can count on to lift any outfit, no matter what the occasion. Perfect for Mother's Day gifting, its soft sparkle blends in easily with other Swarovski designs. Try pairing it with pieces from the Sunshine jewelry family to create a radiant and timeless ensemble.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img18.webp"
+    },
+    {
+      "id": 48,
+      "title": "Iconic Pierced Earring Jackets, Black",
+      "price": " $ 899 ",
+      "description": "Feminine and sophisticated, this versatile pair of rose gold-plated pierced earring jackets features the iconic symbol of Swarovski: the swan. Delicately embellished with dramatic black crystals set in pavé, they sparkle beautifully. Wear alone for timeless refinement or add the Crystal Pearl jackets for a more edgy look. The earrings measure 2.5 cm.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img10.webp"
+    },
+    {
+      "id": 49,
+      "title": "Remix Collection Carrier, White, Rhodium  ",
+      "price": " $ 599 ",
+      "description": "The award-winning Swarovski Remix Collection enters a new era of customization with this sleek crystal-embellished carrier bracelet. Intended to form the foundation of a charm collection, the simple silhouette features dedicated positions, which can be personalized with whatever adornments you desire. This rose gold-plated strand can then be connected with others from the Remix Collection, using the innovative magnetic closure, to create millions of combinations. Whether it’s a necklace, a choker, or a single or multi-wrap bracelet, you can update your look again and again. A perfect gift for a loved one.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img14.webp"
+    },
+    {
+      "id": 50,
+      "title": "Attract Circle Stud Pierced Earrings ",
+      "price": " $ 799 ",
+      "description": "Delicately cut stones and a beautiful color scheme distinguish this pair of pierced Swarovski earrings. Each earring is highlighted by several stones in square, round, and oval shapes, while white, gray, and light blue hues create a lustrous array of sparkles. A great way to enhance your everyday looks.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img15.webp"
+    },
+    {
+      "id": 51,
+      "title": "Infinity Heart Necklace, White ",
+      "price": " $ 499 ",
+      "description": "Eternal romance: The symbols of love and infinity are bound together in this elegant Swarovski necklace. A white crystal heart is intertwined with a rose-gold tone plated infinity symbol in this lovely piece, which is a visible representation of the promise of everlasting love. A perfect gift for your significant other.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img16.webp"
+    },
+    {
+      "id": 52,
+      "title": "Emily Gradient Bracelet,Blue ",
+      "price": " $ 399 ",
+      "description": "This bracelet by Swarovski creates a modern, attractive look through a beautiful color scheme. Numerous sparkling crystals shimmer in blue and green hues, skillfully complemented by clear crystals. The size of the crystals increases towards the center of the bracelet to great visual effect. A perfect fit for casual everyday outfits, either by itself or combined with additional bracelets for a trendy stacking look",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img17.webp"
+    },
+    {
+      "id": 53,
+      "title": "Deluxe Bracelet, White, Rose-gold tone ",
+      "price": " $ 699 ",
+      "description": "Elegant, refined, and incredibly easy to wear, this rose gold-plated edition of our bestselling Tennis Bracelet is a piece you can count on to lift any outfit, no matter what the occasion. Perfect for Mother's Day gifting, its soft sparkle blends in easily with other Swarovski designs. Try pairing it with pieces from the Sunshine jewelry family to create a radiant and timeless ensemble.",
+      "quantity": 20,
+      "category": "jewelry",
+      "image": "../images/img18.webp"
+    },
+    {
+      "title": "Pink Diamond Ring,Rose-gold tone ",
+      "price": "$899",
+      "image": "../images/img26.webp",
+      "description": "Elegance and gently curving shapes distinguish this Swarovski pendant, adding a novel twist to the spiral trend. Shimmering lines intertwine beautifully, embellished by rows of purple stones that glitter brilliantly whenever they reflect incoming light. A matching chain closing with a lobster clasp complements the pendant. Pure and radiant, it is a great addition to your everyday styles.",
+      "quantity": 20,
+      "id": 54
+    },
+    {
+      "title": "PINK-Sparkling Dance Bangle ",
+      "price": "$ 899",
+      "image": "../images/img5.webp",
+      "description": "Feminine and sophisticated, this versatile pair of rose gold-plated pierced earring jackets features the iconic symbol of Swarovski: the swan. Delicately embellished with dramatic black crystals set in pavé, they sparkle beautifully. Wear alone for timeless refinement or add the Crystal Pearl jackets for a more edgy look. The earrings measure 2.5 cm.      ",
+      "quantity": 20,
+      "id": 55
+    },
+    {
+      "title": "Sparkling Dance Bangle, Blue, Rhodium ",
+      "price": "$ 699",
+      "image": "../images/img18.webp",
+      "description": "Feminine and sophisticated, this versatile pair of rose gold-plated pierced earring jackets features the iconic symbol of Swarovski: the swan. Delicately embellished with dramatic black crystals set in pavé, they sparkle beautifully. Wear alone for timeless refinement or add the Crystal Pearl jackets for a more edgy look. The earrings measure 2.5 cm.      ",
+      "quantity": 20,
+      "id": 56
+    },
+    {
+      "title": "Dance Bangle, Blue, Rhodium plated",
+      "price": "$ 899",
+      "image": "../images/img15.webp",
+      "description": "Feminine and sophisticated, this versatile pair of rose gold-plated pierced earring jackets features the iconic symbol of Swarovski: the swan. Delicately embellished with dramatic black crystals set in pavé, they sparkle beautifully. Wear alone for timeless refinement or add the Crystal Pearl jackets for a more edgy look. The earrings measure 2.5 cm.      ",
+      "quantity": 20,
+      "id": 57
+    },
+    {
+      "title": "Dance Bangle, Blue, Rhodium plated",
+      "price": "$ 899",
+      "image": "../images/img5.webp",
+      "description": "  Feminine and sophisticated, this versatile pair of rose gold-plated pierced earring jackets features the iconic symbol     ",
+      "quantity": 20,
+      "id": 58
+    },
+    {
+      "title": "Sparkling Dance Bangle, Blue, Rhodium ",
+      "price": "$ 699",
+      "image": "../images/img18.webp",
+      "description": "Feminine and sophisticated, this versatile pair of rose gold-plated pierced earring jackets features the iconic symbol of Swarovski: the swan. Delicately embellished with dramatic black crystals set in pavé, they sparkle beautifully. Wear alone for timeless refinement or add the Crystal Pearl jackets for a more edgy look. The earrings measure 2.5 cm.      ",
+      "quantity": 20,
+      "id": 59
+    },
+    {
+      "title": "Sparkling Dance Bangle, Blue, Rhodium!!!!",
+      "price": "$ 899",
+      "description": "      Feminine and sophisticated, this versatile pair of rose gold-plated pierced earring jackets features the iconic symbol of Swarovski: the swan. Delicately embellished with dramatic black crystals set in pavé, they sparkle beautifully. Wear alone for timeless re",
+      "quantity": "15",
+      "image": "../images/img18.webp",
+      "id": 60
+    }
+  ]
+}

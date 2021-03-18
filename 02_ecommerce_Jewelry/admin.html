@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Diamonds Shop- Admin</title>
+  <link rel="stylesheet" href="style.css">
+  <link
+			rel="stylesheet"
+			href="./node_modules/font-awesome/css/font-awesome.min.css"
+		/>
+	<link
+			rel="stylesheet"
+			href="./node_modules/bootstrap/dist/css/bootstrap.min.css"
+		/>
+	<link
+			rel="stylesheet"
+			href="./node_modules/bootswatch/dist/minty/bootstrap.min.css"
+		/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+</head>
+<body>
+  <header>
+    <!-- <nav class="navbar navbar-expand-lg navbar-dark bg-dark" ></nav> -->
+   <nav id="navbar" >
+      <div class="container">
+         <h1 class="logo"> <a href="index.html">I <i class="fas fa-heart"></i> Diamonds</a></h1>
+         <!-- navbar for responsive layout -->
+         <a class="js-main-navigation-close" href="admin.html">
+           <i class="fas fa-user-lock"></i>
+         </a>
+         <a class="js-main-navigation-close" href="cart.html">
+            <i class="fas fa-shopping-cart"></i>
+         </a>
+         <a class="js-main-navigation-close" href="contact.html">
+           <i class="fas fa-envelope"></i>
+         </a>
+         <a class="js-main-navigation-close" href="collections.html">
+            <i class="fas fa-gem"></i>
+         </a>
+         <a class="js-main-navigation-close" href="index.html">
+           <i class="fas fa-home"></i>
+         </a>
+            <!--navbar layout for  screen >500px  -->
+         <ul>
+            <li><a  href="index.html"> Home </a>
+            <li><a href="about.html">About</a></li>
+            <li><a href="collections.html">Collections</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a class="current" href="admin.html">Admin</a></li>
+            <li><a href="cart.html">Cart</a></li>
+         </ul>
+      </div>
+   </nav>
+ </header>
+ <div class="container products">
+  <div class="card card-body card-form">
+    <h3>Add new product</h3>
+    <div class="form-group">
+      <input
+        type="text"
+        id="title"
+        class="form-control"
+        placeholder="product title"
+      />
+    </div>
+    <div class="form-group">
+      <input
+        type="text"
+        id="image"
+        class="form-control"
+        placeholder="product image"
+      />
+    </div>
+    <div class="form-group">
+      <input
+        type="text"
+        id="price"
+        class="form-control"
+        placeholder="product price"
+      />
+    </div>
+    <div class="form-group">
+      <input
+        type="number"
+        id="quantity"
+        class="form-control"
+        placeholder="quantity"
+      />
+    </div>
+    <div class="form-group">
+      <textarea
+        id="description"
+        class="form-control"
+        placeholder="description"
+      >
+      </textarea>
+    </div>
+    <button class="btn btn-secondary btn-secondary" id="add-product">
+      Add Product
+    </button>
+  </div>
+  <div class="card card-body card-form" style="margin-top: 10px;">
+    <h3>Modify products</h3>
+  </div>
+  <!-- <h3 class="card card-body card-form"> Modify products </h3> -->
+
+  <div id="productsAdmin" class="table-responsive mt-4">
+    <table id ="myTable" class="table table-hover">
+      <tr class="table-secondary">
+        <th scope="col">ID</th>
+        <th scope="col">Image</th>
+        <th scope="col">Product Name</th>
+        <th scope="col">Price</th>
+        <th scope="col">Stock</th>
+        <th scope="col"></th>
+      </tr>
+      <tbody id="table-body"></tbody>
+  </table>
+  </div>
+  <!-- de sters div pt carduri -->
+  <!-- <div id="products" class="card-columns"></div> -->
+
+<!-- FOOTER -->
+<footer id="main-footer">
+  <p> I <i class="fas fa-heart"></i> Diamonds</a> &copy; 2021 All Rights Reserved</p>
+  <p class="author"> Simona Mihai Front-End/Web Developer </p>
+  <p>
+     <a href="https://github.com/SimonaMihai31" target="_blank">
+        <i class="fab fa-github" ></i></a>
+     <a href="https://www.linkedin.com/in/simona-mihai-696888154" target="_blank">
+        <i class="fab fa-linkedin-in"></i></a>
+     <a href="https://www.instagram.com/p/CJWeOV_p5-S/?igshid=1ahn8jtd2m6d6" target="_blank">
+        <i class="fab fa-instagram"></i></i></a>
+     <a href="https://www.facebook.com/simonica.tomescu" target="_blank">
+           <i class="fab fa-facebook-f"></i></a>
+           
+  </p>
+</footer>
+
+<script src="src/admin.js" type="module"></script>
+</body>
+</html>
