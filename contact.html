@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Diamonds Shop- Contact</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+  <!-- <link
+			rel="stylesheet"
+			href="./node_modules/font-awesome/css/font-awesome.min.css"
+		/> -->
+	<link
+			rel="stylesheet"
+			href="./node_modules/bootstrap/dist/css/bootstrap.min.css"
+		/>
+	<link
+			rel="stylesheet"
+			href="./node_modules/bootswatch/dist/minty/bootstrap.min.css"
+		/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+</head>
+<body>
+  <!-- <nav class="navbar navbar-dark bg-primary mb-3"></nav> -->
+  <nav id="navbar" >
+   <div class="container">
+      <h1 class="logo"> <a href="index.html">I <i class="fas fa-heart"></i> Diamonds</a></h1>
+      <!-- navbar for responsive layout -->
+            <a class="js-main-navigation-close" href="admin.html">
+               <i class="fas fa-user-lock"></i>
+            </a>
+            <a class="js-main-navigation-close" href="cart.html">
+               <i class="fas fa-shopping-cart"></i>
+            </a>
+            <a class="js-main-navigation-close" href="contact.html">
+               <i class="fas fa-envelope"></i>
+            </a>
+            <a class="js-main-navigation-close" href="collections.html">
+               <i class="fas fa-gem"></i>
+            </a>
+            <a class="js-main-navigation-close" href="index.html">
+               <i class="fas fa-home"></i>
+            </a>
+    <!--navbar layout for  screen >500px  -->
+      <ul>
+         <li><a  href="index.html"> Home </a>
+         <li><a href="collections.html">Collections</a></li>
+         <li><a  class="current" href="contact.html">Contact</a></li>
+         <li><a href="admin.html">Admin</a></li>
+         <li><a href="cart.html">Cart</a></li>
+      </ul>
+   </div>
+</nav>
+ </header>
+ <div class="container">
+  <div class="container-form">
+ <form class="form-group" id="form">
+   <fieldset>
+     <h3>Feel free to Contact us</h3>
+     <div id="first-input" class="form-group">
+      <input class="form-control" id="first-name" placeholder="First Name" type="text">
+      <small>Error message</small>
+    </div>
+    <div class="form-group">
+      <input class="form-control" id="last-name" placeholder="Last Name" type="text">
+      <small>Error message</small>
+    </div>
+     <div class="form-group">
+       <input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter email">
+       <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+       <small>Error message</small>
+     </div>
+     <div class="form-group">
+       <textarea class="form-control" id="exampleTextarea" rows="3" placeholder="Your message here...."></textarea>
+     </div>
+     <!-- <fieldset class="form-group">
+       <legend><h6>I have read the Privacy Policy and consent
+         to the processing of my personal data.</h6></legend>
+       <div class="form-check">
+         <label class="form-check-label">
+           <input type="radio" class="form-check-input" name="optionsRadios" id="optionsRadios1" value="option1" checked="">
+           Yes
+         </label>
+       </div>
+       <div class="form-check">
+         <label class="form-check-label">
+           <input type="radio" class="form-check-input" name="optionsRadios" id="optionsRadios2" value="option2">
+           No
+         </label>
+       </div>
+     </fieldset> -->
+     <button type="submit" class="btn btn-secondary" style="margin-left: 100px;">Submit</button>
+ </form>
+<!-- FOOTER -->
+<footer id="main-footer">
+  <p> I <i class="fas fa-heart"></i> Diamonds</a> &copy; 2021 All Rights Reserved</p>
+  <p class="author"> Simona Mihai Front-End/Web Developer </p>
+  <p>
+     <a href="https://github.com/SimonaMihai31" target="_blank">
+        <i class="fab fa-github" ></i></a>
+     <a href="https://www.linkedin.com/in/simona-mihai-696888154" target="_blank">
+        <i class="fab fa-linkedin-in"></i></a>
+     <a href="https://www.instagram.com/p/CJWeOV_p5-S/?igshid=1ahn8jtd2m6d6" target="_blank">
+        <i class="fab fa-instagram"></i></i></a>
+     <a href="https://www.facebook.com/simonica.tomescu" target="_blank">
+           <i class="fab fa-facebook-f"></i></a>
+           
+  </p>
+</footer>
+  <script src="src/contact.js" type="module"></script>
+</body>
+</html>
