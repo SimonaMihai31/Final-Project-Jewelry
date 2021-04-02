@@ -173,7 +173,49 @@ p {
   background-color: var(--bg_main);
   color: #03506f;
 }
+/*  */
+.love {
+  color: var(--pink);
+}
 
+.love:hover {
+  color : #53627c;
+}
+.box1 {
+  position: relative;
+  margin: 50px 600px;
+  width: 100px;
+  height:100px;
+  transform-style: preserve-3d;
+  animation: animate 30s linear infinite;
+}
+@keyframes animate {
+  0% {
+    transform: perspective(1000px) rotateY(0deg);
+  }
+  100% {
+    transform: perspective(1000px) rotateY(360deg);
+  }
+}
+.box1 span {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90%;
+  height: 100%;
+  transform-origin: center;
+  transform-style: preserve-3d;
+  transform: rotateY(calc(var(--i) * 45deg)) translateZ(400px);
+  -webkit-box-reflect: below 0px linear-gradient(transparent, transparent, #0004);
+}
+.box1 span img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
 /* css for Card product on Our Collections section */
 
 .card-body .btn {
@@ -186,14 +228,7 @@ p {
   margin-left: 50px;
   font-size: 25px;
 }
-/* .success {
-  background-color: #2ecc71;
-  width: 100%;
-  color:white;
-  font-size:18px;
-  text-align: center;
-  padding: 3px;
-} */
+
 /* css for Footer */
 #main-footer {
   border-radius: 5px;
@@ -261,6 +296,11 @@ p {
   
   #showcase .showcase-content .memories {
     font-size: 45px;
+  }
+
+  /* css for animation collections */
+  .box1 {
+    display:none;
   }
   /* modify admin table products for responsive */
   #myTable {
