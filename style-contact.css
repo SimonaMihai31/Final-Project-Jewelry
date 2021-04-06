@@ -1,0 +1,27 @@
+.form-group.error input, .form-item.error textarea {
+  border-color:#e74c3c;
+  border-radius:4px;
+}
+
+.form-group.success input, .form-item.success textarea {
+  border-color:#2ecc71;
+  border-radius:4px;
+}
+
+.form-group small{
+  visibility: hidden;
+}
+
+.form-group.error small{
+  visibility: visible;
+  color:#e74c3c;
+}
+
+/* p.success{
+  background-color: #2ecc71;
+  width: 100%;
+  color:white;
+  font-size:18px;
+  text-align: center;
+  padding: 3px;
+} */
