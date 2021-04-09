@@ -11,7 +11,8 @@
   --text_light: #fff;
   --text_med: #53627c;
   --text_dark: #1e2432;
-  --pink:#ffaec0;
+  --pink:#e83e8c;
+  /* --pink:#ffaec0; */
   /* --pink:#f5c0c0; */
   /* --pink: #ff1eec; */
   --orange: #ff8c00;
@@ -183,7 +184,7 @@ p {
 }
 .box1 {
   position: relative;
-  margin: 50px 600px;
+  margin: 40px 600px;
   width: 100px;
   height:100px;
   transform-style: preserve-3d;
