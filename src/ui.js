@@ -43,14 +43,14 @@ class UI {
 						   <h5 class="card-title-title">${product.title}</h5>
                <img src="${product.image}" class="card-img-top" alt="...">
 							 <h6 class="title-price">Price:${product.price}</h6>
-               <button class="btn btn-secondary" onclick="location.href='details.html?id=${product.id}';" id="${product.id}" style="margin-left:75px">Details</button>		 
+               <button class="btn btn-secondary" style="color:#f3969a" onclick="location.href='details.html?id=${product.id}';" id="${product.id}" style="margin-left:75px">Details</button>		 
             </div>
          </div>
          `;
 			this.productsDiv.innerHTML = output;
 		});
 	}	
-	//  <button class="btn btn-secondary" id="${product.id}"> Add to Cart</button>
+	
 	
 	// function  for show card products on details
 	showProductDetails(product) {
@@ -64,7 +64,7 @@ class UI {
 					 <h2 class="card-title-title">${product.title}</h2>    
 					 <h3  class="title-price" style="margin-top:5px;">Price : ${product.price}</h3>
 					 <span style="margin-bottom:15px" class="badge badge-pill badge-warning">In stock</span><br>
-					 <button class="btn btn-secondary"style="margin-bottom:20px" id="${product.id}"><span style="margin-right:20px" class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span> Add to Cart</button>
+					 <button class="btn btn-secondary" style="color:#f3969a;margin-bottom:20px" id="${product.id}"><span style="margin-right:20px" class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span> Add to Cart</button>
 					 <div class="desc">
 							 <p style="padding:15px;">
 									 <small>${product.description}</small>
@@ -124,7 +124,7 @@ showSuccessMessageAddToCart() {
 		successMessage.innerHTML = `
 		<div class="alert alert-dismissible alert-secondary">
          <button type="button" class="close" data-dismiss="alert">&times;</button>
-          <strong>Well done! Product Added To Cart </strong> 
+          <strong style="color:#f3969a" >Well done! Product Added To Cart </strong> 
     </div>`
 		// successMessage.innerHTML =
 		// 	'Product Added To Cart! ';
