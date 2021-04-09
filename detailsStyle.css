@@ -1,11 +1,3 @@
-/* ul > li {
-  margin-right:25px;
-  font-weight:lighter;
-  cursor:pointer
-}
-li.active {
-  border-bottom:3px solid silver;
-} */
 
 .item-photo {
   display:flex;
