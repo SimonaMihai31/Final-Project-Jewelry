@@ -78,7 +78,7 @@ formElem.addEventListener('submit', (e) => {
 	}
 
 	if (emailNameElem.value === '') {
-		ui.showError(emailNameElem, 'Email name required');
+		ui.showError(emailNameElem, 'Email required');
 		ui.allElementsAreValid = false;
 	} else {
 		ui.showSuccess(emailNameElem);

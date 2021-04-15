@@ -1,17 +1,11 @@
-
+/* css for details page for every product */
 .item-photo {
   display:flex;
   justify-content:center;
   align-items:center;
   border-right:3px solid #f6f6f6;
 }
-/* .menu-items {
-  list-style-type:none;
-  font-size:11px;
-  display:inline-flex;
-  margin-bottom:0;
-  margin-top:20px
-} */
+
 .col-xs-8 h2{
   color:#53627c;
 }
@@ -23,7 +17,9 @@
   margin-bottom:0;
   color:#0a1f44
 }
-
+.col-xs-8 .btn {
+  color:#f3969a;
+}
 
 div.section > div {
   width:100%;

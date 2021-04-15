@@ -43,7 +43,7 @@ class UI {
 						   <h5 class="card-title-title">${product.title}</h5>
                <img src="${product.image}" class="card-img-top" alt="...">
 							 <h6 class="title-price">Price:${product.price}</h6>
-               <button class="btn btn-secondary" style="color:#f3969a" onclick="location.href='details.html?id=${product.id}';" id="${product.id}" style="margin-left:75px">Details</button>		 
+               <button class="btn btn-secondary" onclick="location.href='details.html?id=${product.id}';" id="${product.id}" style="margin-left:75px">Details</button>		 
             </div>
          </div>
          `;
@@ -64,7 +64,7 @@ class UI {
 					 <h2 class="card-title-title">${product.title}</h2>    
 					 <h3  class="title-price" style="margin-top:5px;">Price : ${product.price}</h3>
 					 <span style="margin-bottom:15px" class="badge badge-pill badge-warning">In stock</span><br>
-					 <button class="btn btn-secondary" style="color:#f3969a;margin-bottom:20px" id="${product.id}"><span style="margin-right:20px" class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span> Add to Cart</button>
+					 <button class="btn btn-secondary" style="margin-bottom:20px" id="${product.id}"><span style="margin-right:20px" class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span> Add to Cart</button>
 					 <div class="desc">
 							 <p style="padding:15px;">
 									 <small>${product.description}</small>

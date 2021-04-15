@@ -526,12 +526,20 @@
       "id": 59
     },
     {
-      "title": "Sparkling Dance Bangle, Blue, Rhodium!!!!",
+      "title": "Sparkling Dance Bangle, Rhodium",
       "price": "$ 899",
       "description": "      Feminine and sophisticated, this versatile pair of rose gold-plated pierced earring jackets features the iconic symbol of Swarovski: the swan. Delicately embellished with dramatic black crystals set in pavé, they sparkle beautifully. Wear alone for timeless re",
       "quantity": "15",
       "image": "../images/img60.webp",
       "id": 60
+    },
+    {
+      "title": "Twist Wrap Ring, Purple, Rose-gold",
+      "price": "$ 699",
+      "description": "   Intricate and opulent, this marvelous Swarovski ring reinterprets the spiral trend magnificently. Gently curving lines of white stones of various sizes in round, square, and tapered baguette-shapes sparkle brilliantly in many fa   ",
+      "quantity": "25",
+      "image": "../images/img4.webp",
+      "id": 61
     }
   ]
 }
